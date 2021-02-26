@@ -2,9 +2,10 @@
 <img src="https://github.com/Kevzka/kevbotwhatsapp/blob/main/assets/halo.jpg" width=120 height="120" align="left">
 <center>
 My Sosmed :
-* <a href="https://instagram.com/kevin_apta_kun"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-* <a href="https://wa.me/+6283141621181"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-* <a href="https://chat.whatsapp.com/H7puFYYnKkUCNHjlveRTAh"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+
+<a href="https://instagram.com/kevin_apta_kun"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<a href="https://wa.me/+6283141621181"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+                 <a href="https://chat.whatsapp.com/H7puFYYnKkUCNHjlveRTAh"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp%20Group-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
 
 
 
