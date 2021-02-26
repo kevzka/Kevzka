@@ -17,9 +17,9 @@ Contact : kevinapta02@gmail.com
 ## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
 Donate For Me:
 
-* [`Saweria`](https://saweria.co/ramlangans)
+<a href="https://saweria.co/kevinapta"><img src="https://github.com/kevzka/Kevzka/blob/main/Logo-Saweria-Donasi.png" width="30" height="30">
 
-<img src="https://raw.githubusercontent.com/Ramlan666/Ramlan666/main/img/donate.png" width="148">
+<img src="" width="148">
 
 ---
 <img src="">
