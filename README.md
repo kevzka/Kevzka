@@ -1,5 +1,5 @@
 ### Hallo semua <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kevin
-<img src="https://github.com/Kevzka/kevbotwhatsapp/blob/main/assets/halo.jpg" width=120 height="120" align="left">
+<img src="https://github.com/kevzka/Kevzka/blob/main/halo.jpg" width=120 height="120" align="left">
 <center>
 My Sosmed :
 
