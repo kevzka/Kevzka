@@ -16,21 +16,7 @@ My Sosmed :
 
 Contact : kevinapta02@gmail.com
 
-## Donate <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/coin.gif" width="28" height="28">
-Donate For Me:
 
-<a href="https://saweria.co/kevinapta"><img src="https://github.com/kevzka/Kevzka/blob/main/Logo-Saweria-Donasi.png" width="30" height="30"><img src="https://img.shields.io/badge/saweria-FEAA2D?style=for-the-badge&logo=saweria&logoColor=white">
-
-<img src="" width="148">
-
----
-<img src="">
-
----
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Gameplay.gif" alt="Mario Game">
-
----
 ## Stats
 
 <a href="https://github.com/Kevzka"><img src="https://github-readme-stats.vercel.app/api?username=Kevzka&show_icons=true&theme=radical"></a>
