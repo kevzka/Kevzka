@@ -1,31 +1,24 @@
-### Hallo semua <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> I'm Kevin
-<img src="https://github.com/kevzka/Kevzka/blob/main/halo.jpg" width=120 height="120" align="left">
-<center>
-My Sosmed :
 
-<a href="https://instagram.com/ke"><img alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-<a href="https://wa.me/+6283141621181"><img alt="WhatsApp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-<a href="https://chat.whatsapp.com/EPOg7oSElNfLK7SntQNqCm"><img alt="WhatsApp" src="https://img.shields.io/badge/Grup-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kavein_9) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kevinapta99@gmail.com) 
 
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=kevzka&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=kevzka&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=kevzka&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=kevzka&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-&nbsp;&nbsp;     &nbsp;&nbsp;    &nbsp;&nbsp;   &nbsp;&nbsp;   &nbsp;&nbsp;   
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=kevzka&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+---
+[![](https://visitcount.itsvg.in/api?id=kevzka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-
-Contact : kevinapta02@gmail.com
-
-
-## Stats
-
-<a href="https://github.com/Kevzka"><img src="https://github-readme-stats.vercel.app/api?username=Kevzka&show_icons=true&theme=radical"></a>
-<a href="https://github.com/Kevzka"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kevzka&theme=highcontrast&layout=compact"></a>
-
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kevzka">
-</p>
-
-## Trophies
-<p align="center"> <img width=800 src="https://github-profile-trophy.vercel.app/?username=Kevzka&row=2&column=3"/>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
