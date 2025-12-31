@@ -1,7 +1,7 @@
 <div align="center">
 
 # 👋 Hi there, I'm Kevin Apta
-### Full-stack Developer | Mobile Developer | IoT Enthusiast
+### Programming Enthusiast | IoT Enthusiast
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kavein_9) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kevinapta99@gmail.com) 
