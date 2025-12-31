@@ -21,4 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kevzka&icon=0&color=0)](https://visitcount.itsvg.in)
 
+[![Leetcode Stats](leetcard.kevinapta.cool)](leetcode.com)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
