@@ -21,6 +21,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=kevzka&icon=0&color=0)](https://visitcount.itsvg.in)
 
-[[![Leetcode Stats](leetcard.kevinapta.cool)](leetcode.com)](https://leetcode-status.vercel.app/api/card/kevinapta?theme=dark&layout=card&border=true&hide_title=false&logo=true&animation=true&animation_duration=2s&show_stats=true&font=Roboto)
+![LeetCode Stats](https://leetcode-status.vercel.app/api/card/kevinapta?theme=dark&layout=card&border=true&hide_title=false&logo=true&animation=true&animation_duration=2s&show_stats=true&font=Roboto)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
